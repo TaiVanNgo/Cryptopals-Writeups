@@ -1,0 +1,2 @@
+# Notes
+This is the progress that I am learning cryptography. All the challenges are from [cryptopals](https://cryptopals.com/), I cannot solve these challenges on my own, of course. I mainly use my reference from this [writeups](https://cedricvanrompay.gitlab.io/cryptopals/challenges/01-to-08.html), and try to write the code by myself and explain it in my own words. I also read the other solutions as well.
